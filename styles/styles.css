@@ -81,3 +81,21 @@
     padding: 8px 24px;
     border-radius: 2px;
 }
+
+/* inspiration styles */
+
+.inspiration{
+    text-align: center;
+}
+
+.inspiration-content-title{
+    font-weight: bolder;
+    font-size: 32px;
+    color: #0D1321;
+}
+
+.inspiration-content-description{
+    font-weight: normal;
+    font-size: 16px;
+    color: #0D1321;
+}
