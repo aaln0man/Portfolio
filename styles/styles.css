@@ -110,7 +110,7 @@
 }
 .skills{
     display: flex;
-    /* gap: 10px; */
+    gap: 10px;
 }
 
 .skills-content{
@@ -148,4 +148,63 @@ a{
 
 #scj{
     background-color: rgb(255, 255, 219);
+}
+
+/* support styles */
+.support{
+    background-image: url(../styles/assets/handshake.jpg);
+    margin: 100px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+
+.support-content{
+    text-align: center;
+    padding: 40px;
+}
+
+.support-content-title{
+    font-weight: bold;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.support-content-description{
+    font-weight: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+form{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+textarea{
+    height: 44px;
+    border-radius: 5px;
+    display: block;
+    width: 40%;
+    border: none;
+}
+
+input{
+    height: 44px;
+    border-radius: 5px;
+    width: 10%;
+    border: none;
+}
+.st{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0D1321;
+    cursor: pointer;
+}
+.tt{
+    font-weight: normal;
+    font-size: 16px;
+    color: #0D1321;
 }
