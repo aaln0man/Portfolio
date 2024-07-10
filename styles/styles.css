@@ -39,6 +39,19 @@
 }
 .why-dev-content{
     text-align: center;
+    font-size: ;
+}
+
+.why-dev-content-title{
+    font-weight: bolder;
+    font-size: 32px;
+    color: #0D1321;
+}
+
+.why-dev-content-description{
+    font-weight: normal;
+    font-size: 16px;
+    color: #0D1321;
 }
 
 .learn{
@@ -50,7 +63,7 @@
 }
 
 .learn-title{
-    font-weight: bolder;
+    font-weight: normal;
     font-size: 24px;
     color: #0D1321;
 }
