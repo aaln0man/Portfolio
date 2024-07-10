@@ -32,3 +32,39 @@
     padding: 16px 48px;
     border-radius: 5px;
 }
+
+/* why-dev styles */
+.why-dev{
+    margin: 100px;
+}
+.why-dev-content{
+    text-align: center;
+}
+
+.learn{
+    display: flex;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    padding: 50px 80px;
+    box-shadow: 0px 5px 48px 0px rgba(0, 0, 0, 0.06);
+}
+
+.learn-title{
+    font-weight: bolder;
+    font-size: 24px;
+    color: #0D1321;
+}
+
+.learn-description{
+    font-weight: normal;
+    font-size: 16px;
+    color: #0D1321;
+}
+.btn-secondary{
+    background-color: #FFFFFF;
+    font-weight: normal;
+    color: #0D1321;
+    font-size: 20px;
+    padding: 8px 24px;
+    border-radius: 2px;
+}
